@@ -1,0 +1,4 @@
+C:\Jogos\Asteroides\SpaceRhythm\AsteroideOficina\obj\Debug\netcoreapp3.1\SpaceRhythm.csproj.AssemblyReference.cache
+C:\Jogos\Asteroides\SpaceRhythm\AsteroideOficina\obj\Debug\netcoreapp3.1\SpaceRhythm.AssemblyInfoInputs.cache
+C:\Jogos\Asteroides\SpaceRhythm\AsteroideOficina\obj\Debug\netcoreapp3.1\SpaceRhythm.AssemblyInfo.cs
+C:\Jogos\Asteroides\SpaceRhythm\AsteroideOficina\obj\Debug\netcoreapp3.1\SpaceRhythm.csproj.CoreCompileInputs.cache
